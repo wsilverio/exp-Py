@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+'''
+real    2m32.300s
+user    2m30.413s
+sys 0m1.701s
+'''
+
 import sys
 
 def main():
